@@ -1,6 +1,6 @@
 ### Why, hello there! 👋
 
-I'm **Ruben Ulfman**, a front-end focused Software developer from the Netherlands, currently working as in-house developer in a commercial laboratory, and expanding my skillset studying Software Engineer at Fontys University in Eindhoven.
+I'm **Ruben Ulfman**, a front-end focused Software developer from the Netherlands, currently working as in-house developer in a commercial laboratory, and expanding my skillset studying Software Engineering at Fontys University in Eindhoven.
 
 ***
 
