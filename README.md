@@ -1,64 +1,79 @@
-# Why, hello there! 👋
+<div align="center">
 
-I'm **Ruben Ulfman**, a full-stack Software developer from the Netherlands. 
+# Ruben Ulfman
 
-Currently I am working as in-house software engineer for commercial laboratory Nutrilab B.V. to maintain and develop our LIMS platform. Simultaneously I am architecting, developing, and managing the development and rollout of our new LIMS platform codenamed LabX - a modern microservices .NET stack with a React WebApp, using Clean Architecture, CQRS, and Reactive patterns. 
+**Full-stack software engineer · Netherlands**
 
-Visit Nutrilab LabX on GitHub @ [https://github.com/nutrilab-lims ↗](https://github.com/nutrilab-lims).
+</div>
 
-***
+I build and maintain **LabX** — a modern microservices LIMS platform at [Nutrilab B.V.](https://github.com/nutrilab-lims) — architecting the full stack from React frontend to .NET backend to CI/CD pipelines. Currently serving as lead architect & engineer for Nutrilab's inhouse dev-team.
 
-## Skills
+[![GitHub Org](https://img.shields.io/badge/GitHub-nutrilab--lims-24292e?style=flat-square&logo=github)](https://github.com/nutrilab-lims)
+[![Email](https://img.shields.io/badge/Email-r.ulfman@nutrilab.nl-0969da?style=flat-square&logo=gmail&logoColor=white)](mailto:r.ulfman@nutrilab.nl)
 
-### Current Main stack
+---
 
-#### Backend & Infrastructure
+## What I'm building
 
-| | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width='32' height='32' title='C#'> | <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" width='32' height='32' title='.NET'> | <img src="https://mediatr.io/images/logo.png" width='32' height='32' title='MediatR'> | <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" width='32' height='32' title='RabbitMQ'> | <img src="https://avatars2.githubusercontent.com/u/317796?s=200&v=4" width='32' height='32' title='MassTransit'> | <img src="https://github.com/dotnet/efcore/blob/main/logo/ef-logo.png?raw=true" width='32' height='32' title='EF Core'> | <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.72/icon" width='32' height='32' title='Dapper'> | <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width='32' height='32' title='SQL'> | <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" width='32' height='32' title='Redis'> |
+**LabX** is a greenfield LIMS rewrite — a distributed system built for accuracy, traceability, and scale in a commercial lab environment. I own the full architecture and lead the development and rollout.
+
+| Platform | Frontend | Architecture |
+|:---:|:---:|:---:|
+| .NET 10 | React | Microservices |
+
+## Tech stack
+
+#### Backend & infrastructure
+
+![C#](https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512bd4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xIDdsNiA1LTYgNVY3em04IDBsNiA1LTYgNVY3eiIvPjwvc3ZnPg==)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![MassTransit](https://img.shields.io/badge/MassTransit-ff6600?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjMiIHk9IjciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxMCIgcng9IjEiLz48cGF0aCBkPSJNMyA5bDcgNSA3LTVNMTkgOWwyLTJNMTkgMTJoMk0xOSAxNWwyIDIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIi8+PC9zdmc+)
+![EF Core](https://img.shields.io/badge/EF_Core-512bd4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjYiIHJ4PSI5IiByeT0iMyIvPjxwYXRoIGQ9Ik0zIDZ2NGMwIDEuNjYgNC4wMyAzIDkgM3M5LTEuMzQgOS0zVjYiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTMgMTB2NGMwIDEuNjYgNC4wMyAzIDkgM3M5LTEuMzQgOS0zdi00IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
 
 #### Frontend
 
-| | | | | | 
-| --- | --- | --- | --- | --- |
-<img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width='32' height='32' title='TypeScript'> | <img src="https://icon.icepanel.io/Technology/svg/React.svg" width='32' height='32' title='React'>  | <img src="https://icon.icepanel.io/Technology/svg/Vite.svg" width='32' height='32' title='Vite'> | <img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" width='32' height='32' title='Ant Design'> | <img src="https://icon.icepanel.io/Technology/svg/Storybook.svg" width='32' height='32' title='Storybook'> |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170fe?style=flat-square&logo=antdesign&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-ff4785?style=flat-square&logo=storybook&logoColor=white)
 
-#### Platform & Orchestration
+#### Platform & DevOps
 
-| | |  
-| --- | --- | 
-| <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width='32' height='32' title='Docker'> |  <img src="https://aspire.dev/_astro/aspire-logo-32.DGHSFRgf.svg" width='32' height='32' title='.NET Aspire'> | 
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![.NET Aspire](https://img.shields.io/badge/.NET_Aspire-512bd4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMjBoMjBMMTIgMnoiLz48cGF0aCBkPSJNMTIgOWwtNCA4aDh6IiBmaWxsPSIjNTEyQkQ0Ii8+PC9zdmc+)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![K3S](https://img.shields.io/badge/K3S-FFC61C?style=flat-square&logo=k3s&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-f38020?style=flat-square&logo=cloudflare&logoColor=white)
+![MkDocs](https://img.shields.io/badge/MkDocs-526cfe?style=flat-square&logo=materialformkdocs&logoColor=white)
+![DevContainers](https://img.shields.io/badge/DevContainers-2753E3?style=flat-square&logo=developmentcontainers&logoColor=white)
 
-#### DevOps & CI/CD
+#### Patterns & architecture
 
-| | | |
-| --- | --- | --- |
-| <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width='32' height='32' title='GitHub Actions'> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/MkDocs_Logo.png" width='32' height='32' title='MkDocs'> | <img src="https://icon.icepanel.io/Technology/svg/Cloudflare.svg" width='32' height='32' title='Cloudflare pages'> | 
+`Clean Architecture` `CQRS` `Event-Driven` `Event Sourcing` `Outbox Pattern` `Materialized Views` `ABAC` `JWT & JWKS` `CRTP` `Atomic Design`
 
-#### Project management & Methodologies
+---
 
-| | |
-| --- | --- | 
-| <img src="https://apmg-international.com/sites/www.apmg-international.com/files/styles/max_325x325/public/media/badges-logos/badges/agileprojectmanagementfoundation300ppi.png.webp" width='32' height='32' title='AgilePM'> | <img src="https://static.cdnlogo.com/logos/s/76/scrum.svg" width='32' height='32' title='Scrum'> |
+#### Other known and used tools
 
- 
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 
-#### Architecture & Patterns
+---
 
-Clean Architecture, Dual-context CQRS, Event-Driven patterns, Event-Sourcing, Outbox pattern, Materialized Views, Fat Integration Events, ABAC, JWT & JWKS, CRTP, Atomic Design
+<div align="center">
 
-#### DX & Tooling
+AgilePM · Scrum
 
-- `dotnet new` scaffolding
-- <img src="https://nuget.org/Content/gallery/img/logo-og-600x600.png" width='16' height='16' title='NuGet' align='left'> Shared NuGet libraries & frameworks
-
-***
-
-### Other skills
-
-| | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width='32' height='32' title='JavaScript'> | <img src="https://icon.icepanel.io/Technology/svg/Java.svg" width='32' height='32' title='Java'> | <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width='32' height='32' title='Python'> | <img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" width='32' height='32' title='Tensor Flow'> | <img src="https://icon.icepanel.io/Technology/png-shadow-512/Unity.png" width='32' height='32' title='Unity'> | <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width='32' height='32' title='PostgreSQL'> | <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width='32' height='32' title='MySQL'> | <img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width='32' height='32' title='Jira'> |
-
-   
+</div>
