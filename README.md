@@ -19,7 +19,7 @@ I build and maintain **LabX** — a modern microservices LIMS platform at [Nutri
 
 | Platform | Frontend | Architecture |
 |:---:|:---:|:---:|
-| .NET 10 | React | Microservices |
+| ![.NET 10](https://img.shields.io/badge/.NET_10-512bd4?style=for-the-badge&logo=dotnet&logoColor=white) | ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black) | ![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
 
 ## Tech stack
 
@@ -43,12 +43,11 @@ I build and maintain **LabX** — a modern microservices LIMS platform at [Nutri
 
 #### Platform & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![.NET Aspire](https://img.shields.io/badge/.NET_Aspire-512bd4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMjBoMjBMMTIgMnoiLz48cGF0aCBkPSJNMTIgOWwtNCA4aDh6IiBmaWxsPSIjNTEyQkQ0Ii8+PC9zdmc+)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![K3S](https://img.shields.io/badge/K3S-FFC61C?style=flat-square&logo=k3s&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=flat-square&logo=scaleway&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-f38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/MkDocs-526cfe?style=flat-square&logo=materialformkdocs&logoColor=white)
@@ -69,6 +68,9 @@ I build and maintain **LabX** — a modern microservices LIMS platform at [Nutri
 ![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
