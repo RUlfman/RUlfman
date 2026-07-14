@@ -2,20 +2,22 @@
 
 # Ruben Ulfman
 
-**Full-stack software engineer · Netherlands**
+**Full-stack software engineer & architect • Netherlands**
 
 </div>
 
-I build and maintain **LabX** — a modern microservices LIMS platform at [Nutrilab B.V.](https://github.com/nutrilab-lims) — architecting the full stack from React frontend to .NET backend to CI/CD pipelines. Currently serving as lead architect & engineer for Nutrilab's inhouse dev-team.
+Builder and maintainer of **LabX**: a modern microservices LIMS platform at [Nutrilab B.V.](https://github.com/nutrilab-lims). Architecting the full stack from React frontend to .NET backend to CI/CD pipelines. 
+Currently serving as lead architect & engineer for Nutrilab's inhouse dev-team.
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-nutrilab--lims-24292e?style=flat-square&logo=github)](https://github.com/nutrilab-lims)
-[![Email](https://img.shields.io/badge/Email-r.ulfman@nutrilab.nl-0969da?style=flat-square&logo=gmail&logoColor=white)](mailto:r.ulfman@nutrilab.nl)
+[![GitHub Org](https://img.shields.io/badge/GitHub-nutrilab--lims-24292e?logo=github)](https://github.com/nutrilab-lims)
+[![Email](https://img.shields.io/badge/Email-r.ulfman@nutrilab.nl-0969da?logo=gmail&logoColor=white)](mailto:r.ulfman@nutrilab.nl)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Ruben_Ulfman-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ruben-ulfman/)
 
 ---
 
 ## What I'm building
 
-**LabX** is a greenfield LIMS rewrite — a distributed system built for accuracy, traceability, and scale in a commercial lab environment. I own the full architecture and lead the development and rollout.
+**LabX** is a greenfield LIMS rewrite: a distributed system built for accuracy, traceability, and scale in a commercial lab environment. I own the full architecture and lead the development and rollout.
 
 | Backend | Frontend | Architecture |
 |:---:|:---:|:---:|
